@@ -1,7 +1,7 @@
 /// <reference types="cypress"/>
 
 
-describe("Selecto Task" ,() =>{
+describe("Selector Task" ,() =>{
 
 it(" Selector" ,()=> {
     cy.visit("https://demo.productionready.io/#/register")
